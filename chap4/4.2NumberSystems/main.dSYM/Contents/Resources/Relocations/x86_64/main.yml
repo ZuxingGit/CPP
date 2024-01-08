@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/wzx/Development/CPP/chap4/4.2NumberSystems/main'
+relocations:
+  - { offsetInCU: 0xEA, offset: 0xEA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D97, symSize: 0x117 }
+  - { offsetInCU: 0x3EE3, offset: 0x3EE3, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x15D00, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x4654, offset: 0x4654, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x183, symBinAddr: 0x100003F3C, symSize: 0x0 }
+  - { offsetInCU: 0x466E, offset: 0x466E, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x184, symBinAddr: 0x100003F3D, symSize: 0x0 }
+  - { offsetInCU: 0x4688, offset: 0x4688, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x185, symBinAddr: 0x100003F3E, symSize: 0x0 }
+  - { offsetInCU: 0x4807, offset: 0x4807, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x150, symBinAddr: 0x100003EE7, symSize: 0xB }
+  - { offsetInCU: 0x4833, offset: 0x4833, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x117, symBinAddr: 0x100003EAE, symSize: 0x39 }
+  - { offsetInCU: 0x483B, offset: 0x483B, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x150, symBinAddr: 0x100003EE7, symSize: 0xB }
+  - { offsetInCU: 0x482F, offset: 0x482F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D97, symSize: 0x117 }
+  - { offsetInCU: 0x4837, offset: 0x4837, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x117, symBinAddr: 0x100003EAE, symSize: 0x39 }
+...
