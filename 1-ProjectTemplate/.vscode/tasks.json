@@ -8,7 +8,8 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "-std=c++20",
-                "${file}",
+                "${workspaceFolder}/*.cpp",
+                // "${workspaceFolder}/*.h",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],
@@ -33,7 +34,8 @@
                 "-fansi-escape-codes",
                 "-g",
                 "-std=c++20",
-                "${file}",
+                "${workspaceFolder}/*.cpp",
+                // "${workspaceFolder}/*.h",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],

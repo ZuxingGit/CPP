@@ -1,6 +1,6 @@
 #include <iostream>
 #include "person.h"
-// build error!
+// build error solved
 
 // Variable: Declaration and definition
 double weight{};
@@ -20,7 +20,7 @@ int main()
     return 0;
 }
 
-double add(double a, double b)
-{
-    return a + b;
-}
+// double add(double a, double b)
+// {
+//     return a + b;
+// }
